@@ -9,6 +9,7 @@ Dự án này tập trung vào việc phân tích dữ liệu bán hàng của m
 - [Giới thiệu](#giới-thiệu)
 - [Mục lục](#mục-lục)
 - [Tính năng chính](#tính-năng-chính)
+- [Nguồn dữ liệu](#nguồn-dữ-liệu)
 - [Yêu cầu cài đặt](#yêu-cầu-cài-đặt)
 - [Cách sử dụng](#cách-sử-dụng)
 - [Kết quả nổi bật](#kết-quả-nổi-bật)
