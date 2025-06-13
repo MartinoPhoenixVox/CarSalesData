@@ -22,6 +22,12 @@ Dự án này tập trung vào việc phân tích dữ liệu bán hàng của m
 - **Gom cụm (Clustering):** Sử dụng các thuật toán gom cụm để phân loại dữ liệu và khám phá các nhóm tiềm ẩn.
 - **Mô hình cây quyết định (Decision Tree):** Áp dụng mô hình cây quyết định để dự đoán và hiểu các quy tắc ẩn trong dữ liệu.
 
+## Nguồn Dữ Liệu
+
+Bộ dữ liệu "Car Sales Data" của tác giả Suraj.
+
+* **Nguồn:** [https://www.sciencedirect.com/science/article/pii/S2352340918315191#t0005](https://www.sciencedirect.com/science/article/pii/S2352340918315191#t0005)
+
 ## Yêu cầu cài đặt
 
 Để chạy dự án này, bạn cần cài đặt các thư viện Python được liệt kê trong file `requements.txt`. Bạn có thể cài đặt chúng bằng cách sử dụng pip:
